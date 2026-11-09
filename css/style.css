@@ -710,3 +710,37 @@ footer {
         gap: 30px 20px;
     }
 }
+
+/* MUSIC DETAIL — PLATFORM BUTTONS */
+.music-platform-buttons {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 10px;
+    margin-top: 24px;
+}
+
+.music-platform-buttons a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 46px;
+    padding: 12px 8px;
+    border: 1px solid #444;
+    background: #111;
+    color: #eee;
+    text-align: center;
+    text-decoration: none;
+    font-size: 9px;
+    letter-spacing: 1px;
+    transition: background .2s, border-color .2s;
+}
+
+.music-platform-buttons a:hover {
+    background: #252525;
+    border-color: #888;
+    color: #fff;
+}
+
+.music-platform-buttons a:active {
+    background: #333;
+}

@@ -171,6 +171,24 @@ function openMusicDetails(index) {
            </div>`
         : `<p class="music-loading">ТРЕК-ЛИСТ ПОКА НЕ ДОБАВЛЕН.</p>`;
 
+    const platformLinks = [
+        { label: "APPLE MUSIC", url: item.appleMusicUrl },
+        { label: "YANDEX MUSIC", url: item.yandexMusicUrl },
+        { label: "VK MUSIC", url: item.vkMusicUrl }
+    ].filter(platform => platform.url);
+
+    const platformButtons = platformLinks.length
+        ? `<div class="music-platform-buttons">
+            ${platformLinks.map(platform => `
+                <a href="${escapeHTML(platform.url)}"
+                   target="_blank"
+                   rel="noopener noreferrer">
+                    ${platform.label} ↗
+                </a>
+            `).join("")}
+           </div>`
+        : "";
+
     musicGrid.hidden = true;
     musicDetails.hidden = false;
 
@@ -201,6 +219,7 @@ function openMusicDetails(index) {
 
         <div class="music-track-heading">ТРЕК-ЛИСТ</div>
         ${trackList}
+        ${platformButtons}
     `;
 
     musicDetails.scrollIntoView({
