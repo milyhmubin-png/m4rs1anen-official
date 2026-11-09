@@ -1,0 +1,258 @@
+{
+  "artist": {
+    "name": "m4rs1anen",
+    "appleMusic": "https://music.apple.com/ie/artist/m4rs1anen/1528858270",
+    "yandexMusic": "https://music.yandex.ru/artist/10161318",
+    "vkMusic": "https://vk.ru/artist/7073549496363757635"
+  },
+  "note": "Предварительный каталог. Неизвестные поля оставлены null или пустыми; обложки не подменены заглушками. Перед публикацией сверить все данные с карточками релизов на площадках.",
+  "releases": [
+    {
+      "title": "БЕЛАЯ ПАЛАТА!",
+      "type": "album",
+      "year": 2026,
+      "releaseDate": "2026-06-12",
+      "trackCount": 11,
+      "duration": null,
+      "coverUrl": null,
+      "tracks": [],
+      "sources": [
+        "https://music.apple.com/ie/artist/m4rs1anen/1528858270"
+      ]
+    },
+    {
+      "title": "Новый мировой порядок",
+      "type": "album",
+      "year": 2026,
+      "releaseDate": null,
+      "trackCount": 7,
+      "duration": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "последний бой",
+          "duration": "04:52"
+        },
+        {
+          "title": "смерть поэтам",
+          "duration": "06:31"
+        },
+        {
+          "title": "дети ветра",
+          "duration": "03:57"
+        },
+        {
+          "title": "достать небо",
+          "duration": "02:51"
+        },
+        {
+          "title": "война",
+          "duration": "03:27"
+        },
+        {
+          "title": "мир бесчестий",
+          "duration": "04:24"
+        },
+        {
+          "title": "нас уже не спасти",
+          "duration": "03:11"
+        }
+      ],
+      "sources": [
+        "https://music.apple.com/ie/artist/m4rs1anen/1528858270",
+        "https://music.amazon.com/tracks/B0GKMJZG8C"
+      ]
+    },
+    {
+      "title": "Love?",
+      "type": "album",
+      "year": 2025,
+      "releaseDate": "2025-04-25",
+      "trackCount": 10,
+      "duration": "27 min",
+      "coverUrl": null,
+      "tracks": [],
+      "sources": [
+        "https://music.apple.com/ie/artist/m4rs1anen/1528858270"
+      ]
+    },
+    {
+      "title": "Pain City",
+      "type": "album",
+      "year": 2024,
+      "releaseDate": "2024-05-13",
+      "trackCount": 11,
+      "duration": "31 min",
+      "coverUrl": null,
+      "tracks": [],
+      "sources": [
+        "https://music.apple.com/ie/artist/m4rs1anen/1528858270"
+      ]
+    },
+    {
+      "title": "Ugly Freak II",
+      "type": "album",
+      "year": 2023,
+      "releaseDate": "2023-08-25",
+      "trackCount": 11,
+      "duration": null,
+      "coverUrl": null,
+      "tracks": [],
+      "sources": [
+        "https://music.apple.com/ie/artist/m4rs1anen/1528858270"
+      ]
+    },
+    {
+      "title": "Ugly Freak I",
+      "type": "album",
+      "year": 2022,
+      "releaseDate": null,
+      "trackCount": null,
+      "duration": null,
+      "coverUrl": null,
+      "tracks": [],
+      "sources": [
+        "https://music.apple.com/ie/artist/m4rs1anen/1528858270"
+      ]
+    },
+    {
+      "title": "XV.XI.XXV",
+      "type": "compilation",
+      "year": 2026,
+      "releaseDate": null,
+      "trackCount": 10,
+      "duration": null,
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "рядом",
+          "duration": "03:33"
+        },
+        {
+          "title": "вскружила голову",
+          "duration": "04:09"
+        },
+        {
+          "title": "я люблю тебя",
+          "duration": "03:08"
+        },
+        {
+          "title": "прошу останься",
+          "duration": "03:20"
+        },
+        {
+          "title": "нежность",
+          "duration": "03:17"
+        },
+        {
+          "title": "я хочу тебя поцеловать",
+          "duration": "03:37"
+        },
+        {
+          "title": "хочу встречать с тобой рассвет",
+          "duration": "03:58"
+        },
+        {
+          "title": "ты просто космос",
+          "duration": "03:36"
+        },
+        {
+          "title": "неужели это любовь",
+          "duration": "03:19"
+        },
+        {
+          "title": "лишь одну",
+          "duration": "03:41"
+        }
+      ],
+      "sources": [
+        "https://music.apple.com/ie/artist/m4rs1anen/1528858270",
+        "https://music.amazon.com/tracks/B0GPQ3PWGL"
+      ]
+    },
+    {
+      "title": "Улетаю",
+      "type": "ep",
+      "year": 2025,
+      "releaseDate": "2025-08-01",
+      "trackCount": 5,
+      "duration": "9 min",
+      "coverUrl": null,
+      "tracks": [
+        {
+          "title": "Бездельник",
+          "duration": "00:57"
+        },
+        {
+          "title": "Дура",
+          "duration": "01:16"
+        },
+        {
+          "title": "Очередной",
+          "duration": "01:07"
+        },
+        {
+          "title": "Жаль",
+          "duration": "03:56"
+        },
+        {
+          "title": "Полюбить жизнь",
+          "duration": "02:34"
+        }
+      ],
+      "sources": [
+        "https://music.amazon.co.uk/albums/B0FJ28W5X8"
+      ]
+    }
+  ],
+  "singles": [
+    {
+      "title": "ugly freak",
+      "year": 2026,
+      "coverUrl": null,
+      "sources": [
+        "https://music.apple.com/ie/artist/m4rs1anen/1528858270"
+      ]
+    },
+    {
+      "title": "прошу останься",
+      "year": 2026,
+      "coverUrl": null,
+      "sources": [
+        "https://music.apple.com/ie/artist/m4rs1anen/1528858270"
+      ]
+    },
+    {
+      "title": "Последний бой",
+      "year": 2025,
+      "coverUrl": null,
+      "sources": [
+        "https://music.apple.com/ie/artist/m4rs1anen/1528858270"
+      ]
+    },
+    {
+      "title": "Небо",
+      "year": 2025,
+      "coverUrl": null,
+      "sources": [
+        "https://music.apple.com/ie/artist/m4rs1anen/1528858270"
+      ]
+    },
+    {
+      "title": "В аду",
+      "year": 2025,
+      "coverUrl": null,
+      "sources": [
+        "https://music.apple.com/ie/artist/m4rs1anen/1528858270"
+      ]
+    },
+    {
+      "title": "Приступы рвоты",
+      "year": 2025,
+      "coverUrl": null,
+      "sources": [
+        "https://music.apple.com/ie/artist/m4rs1anen/1528858270"
+      ]
+    }
+  ]
+}

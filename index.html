@@ -67,30 +67,45 @@
             </div>
         </div>
 
-        <section class="content-section" id="music">
-            <div class="section-top">
-                <span class="section-index">01 / MUSIC</span>
-                <span class="section-note">ДИСКОГРАФИЯ</span>
-            </div>
+        <section class="content-section music-section" id="music">
+    <div class="section-top">
+        <span class="section-index">01 / MUSIC</span>
+        <span class="section-note">OFFICIAL DISCOGRAPHY</span>
+    </div>
 
-            <h2>МОЙ ЗВУК.<br>МОЯ ИСТОРИЯ.</h2>
+    <h2>МОЙ ЗВУК.<br>МОЯ ИСТОРИЯ.</h2>
 
-            <div class="release-card">
-                <div class="release-art">
-                    <span>m4rs1anen</span>
-                    <strong>БЕЛАЯ<br>ПАЛАТА!</strong>
-                    <small>2026 / ALBUM</small>
-                    <div class="art-number">013</div>
-                </div>
+    <div class="music-catalog-heading">
+        <span>МУЗЫКАЛЬНЫЙ АРХИВ</span>
+        <span>m4rs1anen®</span>
+    </div>
 
-                <div class="release-info">
-                    <span>ПОСЛЕДНИЙ РЕЛИЗ</span>
-                    <h3>БЕЛАЯ ПАЛАТА!</h3>
-                    <p>Альбом · m4rs1anen</p>
-                    <a href="#releases">ВСЕ РЕЛИЗЫ ↗</a>
-                </div>
-            </div>
-        </section>
+    <div class="catalog-tabs">
+        <button class="catalog-tab active" data-catalog="releases">
+            РЕЛИЗЫ
+        </button>
+        <button class="catalog-tab" data-catalog="singles">
+            СИНГЛЫ
+        </button>
+    </div>
+
+    <div id="music-grid" class="music-grid">
+        <p class="music-loading">ЗАГРУЗКА МУЗЫКАЛЬНОГО АРХИВА...</p>
+    </div>
+
+    <div id="music-details" class="music-details" hidden></div>
+
+    <div class="music-platforms">
+        <span>СЛУШАТЬ НА ПЛОЩАДКАХ</span>
+        <a href="https://music.yandex.ru/artist/10161318" target="_blank" rel="noopener">YANDEX MUSIC ↗</a>
+        <a href="https://vk.ru/artist/7073549496363757635" target="_blank" rel="noopener">VK MUSIC ↗</a>
+        <a href="https://music.apple.com/ie/artist/m4rs1anen/1528858270" target="_blank" rel="noopener">APPLE MUSIC ↗</a>
+    </div>
+
+    <p class="music-disclaimer">
+        m4rs1anen® — МУЗЫКАЛЬНЫЙ АРХИВ
+    </p>
+</section>
 
         <section class="content-section" id="merch">
             <div class="section-top">
