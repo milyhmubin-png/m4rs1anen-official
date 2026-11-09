@@ -1,0 +1,117 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: #090909;
+  color: #f5f5f5;
+  font-family: Arial, sans-serif;
+}
+
+header {
+  padding: 24px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #252525;
+}
+
+.logo {
+  font-size: 21px;
+  font-weight: 900;
+  letter-spacing: -1px;
+}
+
+.logo span {
+  color: #888;
+}
+
+.official, .hero-label {
+  font-size: 9px;
+  letter-spacing: 2px;
+  color: #888;
+}
+
+.hero {
+  padding: 65px 22px 45px;
+  min-height: 310px;
+  background: linear-gradient(145deg, #202020, #090909 75%);
+}
+
+.hero h1 {
+  font-size: clamp(42px, 12vw, 65px);
+  line-height: .95;
+  letter-spacing: -4px;
+  margin: 30px 0 15px;
+}
+
+.hero p {
+  color: #999;
+  font-size: 13px;
+}
+
+.hero-number {
+  margin-top: 45px;
+  font-size: 10px;
+  color: #777;
+  letter-spacing: 3px;
+}
+
+.sections {
+  padding: 25px 20px;
+}
+
+.sections h2 {
+  font-size: 11px;
+  letter-spacing: 4px;
+  color: #777;
+  margin-bottom: 25px;
+}
+
+.menu-card {
+  display: flex;
+  align-items: center;
+  gap: 17px;
+  padding: 19px 5px;
+  border-bottom: 1px solid #292929;
+  cursor: pointer;
+}
+
+.menu-card > span {
+  color: #777;
+  font-size: 11px;
+}
+
+.menu-card div {
+  flex: 1;
+}
+
+.menu-card h3 {
+  font-size: 15px;
+  margin: 0 0 6px;
+}
+
+.menu-card p {
+  color: #777;
+  font-size: 11px;
+  margin: 0;
+}
+
+.menu-card b {
+  font-size: 20px;
+}
+
+#content {
+  padding: 20px;
+  color: #777;
+  font-size: 10px;
+  letter-spacing: 2px;
+}
+
+footer {
+  padding: 30px 20px;
+  text-align: center;
+  font-size: 10px;
+  color: #555;
+}
