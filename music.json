@@ -14,11 +14,13 @@
       "releaseDate": "2026-06-12",
       "trackCount": 11,
       "duration": null,
-      "coverUrl": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/33/cb/4133cb50-7f0d-a9c8-1cab-d41c1aecdcbe/cover.jpg/600x600bb.jpg",
       "tracks": [],
       "sources": [
-        "https://music.apple.com/ie/artist/m4rs1anen/1528858270"
-      ]
+        "https://music.apple.com/ie/artist/m4rs1anen/1528858270",
+        "https://music.apple.com/us/album/%D0%B1%D0%B5%D0%BB%D0%B0%D1%8F-%D0%BF%D0%B0%D0%BB%D0%B0%D1%82%D0%B0/6774435580?uo=4"
+      ],
+      "appleMusicUrl": "https://music.apple.com/us/album/%D0%B1%D0%B5%D0%BB%D0%B0%D1%8F-%D0%BF%D0%B0%D0%BB%D0%B0%D1%82%D0%B0/6774435580?uo=4"
     },
     {
       "title": "Новый мировой порядок",
@@ -27,7 +29,7 @@
       "releaseDate": null,
       "trackCount": 7,
       "duration": null,
-      "coverUrl": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/a5/4f/17a54f34-5243-6f3f-9bc3-f55b83231969/cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "title": "последний бой",
@@ -60,8 +62,10 @@
       ],
       "sources": [
         "https://music.apple.com/ie/artist/m4rs1anen/1528858270",
-        "https://music.amazon.com/tracks/B0GKMJZG8C"
-      ]
+        "https://music.amazon.com/tracks/B0GKMJZG8C",
+        "https://music.apple.com/us/album/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%B9-%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA/1873004113?uo=4"
+      ],
+      "appleMusicUrl": "https://music.apple.com/us/album/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%B9-%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA/1873004113?uo=4"
     },
     {
       "title": "Love?",
@@ -70,11 +74,13 @@
       "releaseDate": "2025-04-25",
       "trackCount": 10,
       "duration": "27 min",
-      "coverUrl": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2e/75/a0/2e75a027-32bc-bd00-307b-2685b8fd05d2/cover.jpg/600x600bb.jpg",
       "tracks": [],
       "sources": [
-        "https://music.apple.com/ie/artist/m4rs1anen/1528858270"
-      ]
+        "https://music.apple.com/ie/artist/m4rs1anen/1528858270",
+        "https://music.apple.com/us/album/love/1808568030?uo=4"
+      ],
+      "appleMusicUrl": "https://music.apple.com/us/album/love/1808568030?uo=4"
     },
     {
       "title": "Pain City",
@@ -83,11 +89,13 @@
       "releaseDate": "2024-05-13",
       "trackCount": 11,
       "duration": "31 min",
-      "coverUrl": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/16/3d/2f/163d2f50-e5da-fea5-f389-b6d87b7db3c9/cover.jpg/600x600bb.jpg",
       "tracks": [],
       "sources": [
-        "https://music.apple.com/ie/artist/m4rs1anen/1528858270"
-      ]
+        "https://music.apple.com/ie/artist/m4rs1anen/1528858270",
+        "https://music.apple.com/us/album/pain-city/1741197118?uo=4"
+      ],
+      "appleMusicUrl": "https://music.apple.com/us/album/pain-city/1741197118?uo=4"
     },
     {
       "title": "Ugly Freak II",
@@ -96,11 +104,13 @@
       "releaseDate": "2023-08-25",
       "trackCount": 11,
       "duration": null,
-      "coverUrl": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/da/00/ec/da00ec4a-b701-ad28-45bf-0541ade78b9a/cover.jpg/600x600bb.jpg",
       "tracks": [],
       "sources": [
-        "https://music.apple.com/ie/artist/m4rs1anen/1528858270"
-      ]
+        "https://music.apple.com/ie/artist/m4rs1anen/1528858270",
+        "https://music.apple.com/us/album/ugly-freak-ii/1703343093?uo=4"
+      ],
+      "appleMusicUrl": "https://music.apple.com/us/album/ugly-freak-ii/1703343093?uo=4"
     },
     {
       "title": "Ugly Freak I",
@@ -109,11 +119,13 @@
       "releaseDate": null,
       "trackCount": null,
       "duration": null,
-      "coverUrl": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/7c/b2/ae/7cb2ae05-905f-f57b-0aca-b5f7e2181be3/cover.jpg/600x600bb.jpg",
       "tracks": [],
       "sources": [
-        "https://music.apple.com/ie/artist/m4rs1anen/1528858270"
-      ]
+        "https://music.apple.com/ie/artist/m4rs1anen/1528858270",
+        "https://music.apple.com/us/album/ugly-freak-i/1657478968?uo=4"
+      ],
+      "appleMusicUrl": "https://music.apple.com/us/album/ugly-freak-i/1657478968?uo=4"
     },
     {
       "title": "XV.XI.XXV",
@@ -122,7 +134,7 @@
       "releaseDate": null,
       "trackCount": 10,
       "duration": null,
-      "coverUrl": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/32/88/18/3288184d-9711-9c78-fba9-8a8c48a7cb4b/cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "title": "рядом",
@@ -167,8 +179,10 @@
       ],
       "sources": [
         "https://music.apple.com/ie/artist/m4rs1anen/1528858270",
-        "https://music.amazon.com/tracks/B0GPQ3PWGL"
-      ]
+        "https://music.amazon.com/tracks/B0GPQ3PWGL",
+        "https://music.apple.com/us/album/xv-xi-xxv/1882436804?uo=4"
+      ],
+      "appleMusicUrl": "https://music.apple.com/us/album/xv-xi-xxv/1882436804?uo=4"
     },
     {
       "title": "Улетаю",
@@ -177,7 +191,7 @@
       "releaseDate": "2025-08-01",
       "trackCount": 5,
       "duration": "9 min",
-      "coverUrl": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/49/2d/55/492d5524-f1df-2e15-03ef-8b58f0d90aec/cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "title": "Бездельник",
@@ -201,58 +215,72 @@
         }
       ],
       "sources": [
-        "https://music.amazon.co.uk/albums/B0FJ28W5X8"
-      ]
+        "https://music.amazon.co.uk/albums/B0FJ28W5X8",
+        "https://music.apple.com/us/album/%D1%83%D0%BB%D0%B5%D1%82%D0%B0%D1%8E-ep/1828445949?uo=4"
+      ],
+      "appleMusicUrl": "https://music.apple.com/us/album/%D1%83%D0%BB%D0%B5%D1%82%D0%B0%D1%8E-ep/1828445949?uo=4"
     }
   ],
   "singles": [
     {
       "title": "ugly freak",
       "year": 2026,
-      "coverUrl": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/21/d2/f2/21d2f2f7-8530-26d0-f296-fd0b2cbcf493/cover.png/600x600bb.jpg",
       "sources": [
-        "https://music.apple.com/ie/artist/m4rs1anen/1528858270"
-      ]
+        "https://music.apple.com/ie/artist/m4rs1anen/1528858270",
+        "https://music.apple.com/us/album/ugly-freak-single/1884199506?uo=4"
+      ],
+      "appleMusicUrl": "https://music.apple.com/us/album/ugly-freak-single/1884199506?uo=4"
     },
     {
       "title": "прошу останься",
       "year": 2026,
-      "coverUrl": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/b6/b6/eab6b6b0-9787-a5e6-557f-5358f6415171/cover.jpg/600x600bb.jpg",
       "sources": [
-        "https://music.apple.com/ie/artist/m4rs1anen/1528858270"
-      ]
+        "https://music.apple.com/ie/artist/m4rs1anen/1528858270",
+        "https://music.apple.com/us/album/%D0%BF%D1%80%D0%BE%D1%88%D1%83-%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D1%8C%D1%81%D1%8F-single/1879262410?uo=4"
+      ],
+      "appleMusicUrl": "https://music.apple.com/us/album/%D0%BF%D1%80%D0%BE%D1%88%D1%83-%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D1%8C%D1%81%D1%8F-single/1879262410?uo=4"
     },
     {
       "title": "Последний бой",
       "year": 2025,
-      "coverUrl": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e9/29/60/e929607e-b603-0f57-d313-6df63d8f95e9/cover.jpg/600x600bb.jpg",
       "sources": [
-        "https://music.apple.com/ie/artist/m4rs1anen/1528858270"
-      ]
+        "https://music.apple.com/ie/artist/m4rs1anen/1528858270",
+        "https://music.apple.com/us/album/%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9-%D0%B1%D0%BE%D0%B9-single/1863491316?uo=4"
+      ],
+      "appleMusicUrl": "https://music.apple.com/us/album/%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9-%D0%B1%D0%BE%D0%B9-single/1863491316?uo=4"
     },
     {
       "title": "Небо",
       "year": 2025,
-      "coverUrl": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c2/b3/0a/c2b30acc-c161-92a3-d714-8ac9f20a3e8f/cover.jpg/600x600bb.jpg",
       "sources": [
-        "https://music.apple.com/ie/artist/m4rs1anen/1528858270"
-      ]
+        "https://music.apple.com/ie/artist/m4rs1anen/1528858270",
+        "https://music.apple.com/us/album/%D0%BD%D0%B5%D0%B1%D0%BE-single/1850198296?uo=4"
+      ],
+      "appleMusicUrl": "https://music.apple.com/us/album/%D0%BD%D0%B5%D0%B1%D0%BE-single/1850198296?uo=4"
     },
     {
       "title": "В аду",
       "year": 2025,
-      "coverUrl": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/27/1b/11/271b1139-815d-a87c-5cb7-3c348e57a066/cover.jpg/600x600bb.jpg",
       "sources": [
-        "https://music.apple.com/ie/artist/m4rs1anen/1528858270"
-      ]
+        "https://music.apple.com/ie/artist/m4rs1anen/1528858270",
+        "https://music.apple.com/us/album/%D0%B2-%D0%B0%D0%B4%D1%83-single/1845761435?uo=4"
+      ],
+      "appleMusicUrl": "https://music.apple.com/us/album/%D0%B2-%D0%B0%D0%B4%D1%83-single/1845761435?uo=4"
     },
     {
       "title": "Приступы рвоты",
       "year": 2025,
-      "coverUrl": null,
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/72/cf/f5/72cff509-738d-6ff0-04d6-aff61257c067/cover.jpg/600x600bb.jpg",
       "sources": [
-        "https://music.apple.com/ie/artist/m4rs1anen/1528858270"
-      ]
+        "https://music.apple.com/ie/artist/m4rs1anen/1528858270",
+        "https://music.apple.com/us/album/%D0%BF%D1%80%D0%B8%D1%81%D1%82%D1%83%D0%BF%D1%8B-%D1%80%D0%B2%D0%BE%D1%82%D1%8B-single/1815880795?uo=4"
+      ],
+      "appleMusicUrl": "https://music.apple.com/us/album/%D0%BF%D1%80%D0%B8%D1%81%D1%82%D1%83%D0%BF%D1%8B-%D1%80%D0%B2%D0%BE%D1%82%D1%8B-single/1815880795?uo=4"
     }
   ]
 }
